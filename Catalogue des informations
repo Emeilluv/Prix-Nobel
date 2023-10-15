@@ -4,8 +4,6 @@
 - nom
 - genre 
 - date de naissance
-- lieu de naissance
-- nationalite
 - formation
 - occupation
 - langue maternelle
@@ -29,6 +27,7 @@
 ### Relation entre les classes d'objets
 - personne est nee dans pays
 - personne habite dans pays 
+- personne a la nationalite de pays
 - personne travaille pour maison d'edition
 - maison d'edition se trouve dans pays 
 
