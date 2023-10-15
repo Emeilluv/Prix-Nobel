@@ -1,0 +1,39 @@
+# Catalogue des informations 
+## Objets 
+### Persone 
+- nom
+- date de naissance
+- lieu de naissance
+- nationalite
+- formation
+- occupation
+- langue maternelle
+- langue d'ectriture
+- annee de l'obtention du prix nobel de litterature 
+- age au moment de sa premiüre publication
+- nombre de livres publies
+- type d'oeuvre ecrite 
+
+### Pays 
+- nom 
+- continent 
+- nombre d'habitants
+- PIB 
+
+### Maison d'edition
+- date de fondation
+- langue de publication
+- lieu d'edition
+- Chiffre d'affarie annuel ou nombre d'ouvrage vendu 
+
+### Relation entre les classes d'objets
+- personne est nee dans pays
+- personne habite dans pays 
+- personne travaille pour maison d'edition
+- maison d'edition se trouve dans pays 
+
+
+
+
+
+
