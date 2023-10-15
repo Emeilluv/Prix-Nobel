@@ -2,6 +2,7 @@
 ## Objets 
 ### Persone 
 - nom
+- genre 
 - date de naissance
 - lieu de naissance
 - nationalite
