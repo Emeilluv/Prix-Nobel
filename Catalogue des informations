@@ -3,15 +3,10 @@
 ### Persone 
 - nom
 - genre 
-- date de naissance
-- formation
-- occupation
+- année de naissance
 - langue maternelle
-- langue d'ectriture
 - annee de l'obtention du prix nobel de litterature 
-- age au moment de sa premiüre publication
-- nombre de livres publies
-- type d'oeuvre ecrite 
+- age au moment de sa première publication 
 
 ### Pays 
 - nom 
@@ -22,8 +17,7 @@
 ### Maison d'edition
 - nom
 - date de fondation
-- lieu d'edition
-- chiffre d'affarie annuel ou nombre d'ouvrage vendu 
+- pays d'edition
 
 ### Relation entre les classes d'objets
 - personne est nee dans pays
